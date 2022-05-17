@@ -1,0 +1,15 @@
+.containerGeneral{
+    display: flex;
+    
+}
+
+
+.container1{
+    width: 50%;
+    background-color:mediumseagreen;
+}
+
+.container2{
+    width: 50%;
+    background-color:turquoise;
+}
