@@ -22,6 +22,7 @@ export const ItemCharacterContainer =() =>  {
     
     <div className= "containerGeneral">
     <div className="container1">
+<<<<<<< HEAD
       <ItemList 
         personajes={personajes1}
         
@@ -33,6 +34,13 @@ export const ItemCharacterContainer =() =>  {
         personajes={personajes2} 
         
     />
+=======
+      <ItemList personajes={personajes1}/>
+      
+    </div>
+    <div className="container2">
+    <ItemList personajes={personajes2}/>
+>>>>>>> 24bfe0e579081655ca32545e5508907f5e63f173
     </div>
   </div>
   

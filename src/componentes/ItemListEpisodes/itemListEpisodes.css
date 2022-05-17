@@ -1,5 +1,9 @@
 .episodes{
+<<<<<<< HEAD
     width: 50%;
+=======
+    width: 100%;
+>>>>>>> 24bfe0e579081655ca32545e5508907f5e63f173
     height: 400px;
     background-color: brown;
 }

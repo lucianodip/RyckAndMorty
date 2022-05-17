@@ -1,7 +1,24 @@
 import { Link } from 'react-router-dom'
 import './cardPersonajes.css'
 
+<<<<<<< HEAD
 export const CardPersonajes = ( {id, nombre, status, species,img} ) => {    
+=======
+//una vez los datos en el cardStock los recibimos ya desestructurados
+//usamos los datos a placer en la cart, teniendo en cuenta que estas cartas
+//se van a renderizar de manera dinamica segun cuantos objetos tenga el array
+export const CardPersonajes = ( {id, nombre, status, species,img} ) => {    
+
+
+    // const saludar = (id) => {
+    //     //si el contador es menor que el max && (simplificar IF)
+    //     console.log(id);
+    //onClick={()=> saludar({id})}
+    // }
+
+    
+    
+>>>>>>> 24bfe0e579081655ca32545e5508907f5e63f173
     
     return (
         
